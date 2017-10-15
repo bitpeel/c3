@@ -2,7 +2,7 @@
 
 ## Installing the Arduino Software
 
-Visit [https://www.arduino.cc/en/Main/Software] and click the link the says “Windows Installer”.  Click the link that says “Just download”
+Visit <https://www.arduino.cc/en/Main/Software> and click the link the says “Windows Installer”.  Click the link that says “Just download”
 
 ## What is Arduino?
 
@@ -10,7 +10,7 @@ Arduino is an open-source electronics platform based on easy-to-use hardware and
 
 ## Reference Documents
 
-[https://www.arduino.cc/en/Reference/HomePage]
+<https://www.arduino.cc/en/Reference/HomePage>
 
 ## Useful Arduino Keywords
 
@@ -42,4 +42,4 @@ Arduino is an open-source electronics platform based on easy-to-use hardware and
 
 ## Tutorials
 
-[https://www.arduino.cc/en/Tutorial/HomePage]
+<https://www.arduino.cc/en/Tutorial/HomePage>
